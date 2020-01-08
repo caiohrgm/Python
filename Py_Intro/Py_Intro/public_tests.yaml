@@ -1,0 +1,6 @@
+- input: |
+    exemplo de uma frase
+    3
+  output: |
+    Digite uma frase:Digite um número:A 3a palavra da frase é: UMA
+

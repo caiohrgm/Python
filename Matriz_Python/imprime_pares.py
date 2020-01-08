@@ -1,0 +1,12 @@
+def imprime_pares(matriz,lin,col):
+
+	for i in range(lin):
+		for j in range(col-1,-1,-1):
+			if matriz[i][j] % 2 == 0:
+				print m[i][j]
+
+m = [[1,2,3],
+	 [4,5,6],
+	 [7,8,9]]
+
+imprime_pares(m,3,3)
